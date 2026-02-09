@@ -1,30 +1,23 @@
-# Justus Wächter | Automation & AI Solutions
+# 🛡️ Justus Wächter - Automation & Cyber Security Expert
 
-Professional portfolio of a Cyber Security (B.Sc.) student and Full-Stack Developer. Specialized in high-performance automation, web scraping, and AI integration.
+Professional Python Developer specializing in high-performance web scraping, business automation, and secure web applications.
 
-## 🛠 Tech Stack
-- **Languages:** Python, JavaScript, TypeScript
-- **Automation:** Playwright, Selenium, Scrapy, BeautifulSoup
-- **Web:** React, Next.js, FastAPI, Node.js
-- **Cloud/DevOps:** AWS, Docker, CI/CD, Linux Security
+## 🚀 Services offered
+- **Web Scraping & Data Extraction:** Bypassing Cloudflare, Captchas, and complex anti-bot systems.
+- **Business Automation:** Custom Python bots, WhatsApp/Discord integrations, and workflow optimization.
+- **Full-Stack Web Development:** Modern apps with React, Next.js, and FastAPI.
+- **AI Integration:** Leveraging LLMs (GPT-4, Claude, Gemini) for smart business tools.
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript/TypeScript, SQL
+- **Frameworks:** FastAPI, React, Next.js, Scrapy, Playwright
+- **Tools:** Docker, PostgreSQL, AWS, Git
 
-### 1. Smart E-Commerce Scraper
-A resilient scraping engine capable of bypassing modern anti-bot systems.
-- **Tools:** Python, Playwright
-- **Features:** Real-time price monitoring, inventory tracking.
+## 💼 Available for Hire
+I am currently accepting new projects. 
 
-### 2. AI Business API
-A FastAPI-based wrapper for integrating LLMs into business workflows.
-- **Tools:** FastAPI, OpenAI/Gemini API
-- **Features:** Document analysis, automated responses.
-
-### 3. Business Showcase Website
-A modern, responsive landing page for service presentation.
-- **Tools:** HTML5, CSS3, JavaScript
+📩 **Contact me via Fiverr:** [Justus Wächter on Fiverr](https://www.fiverr.com/justuswaechter)
+📍 **Location:** Bonn, Germany (Available for global remote work)
 
 ---
-### 📬 Contact
-Looking for automation solutions? 
-Find me on [Fiverr](https://fiverr.com/justus_waechter) (Launch in progress) or contact me directly.
+*Verified Cyber Security Student at H-BRS Bonn.*
